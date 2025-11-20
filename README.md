@@ -6,8 +6,8 @@ Repository contenente implementazioni di algoritmi di Intelligenza Artificiale i
 
 ### 1. Protein Folding (2D HP Model)
 - **Obiettivo:** Massimizzare i contatti H-H in una griglia 2D.
-- **Algoritmi:** DFS, A*.
-- **Euristiche:** Parità (Scacchiera), Contatti mancanti.
+- **Algoritmi:** DFS, BFS, MINCOST, A*.
+- **Euristiche:** Contatti mancanti.
 
 
 ## Requisiti
