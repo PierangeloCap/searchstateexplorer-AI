@@ -1,0 +1,16 @@
+# Maven (File compilati e Jar)
+target/
+*.jar
+*.class
+
+# IDE (IntelliJ, Eclipse, VSCode)
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
