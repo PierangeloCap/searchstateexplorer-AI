@@ -1,15 +1,15 @@
 # AI Algorithms & Exercises
 
-Repository contenente implementazioni di algoritmi di Intelligenza Artificiale in Java.
+Repository containing implementations of Artificial Intelligence algorithms and search strategies in Java.
 
-## Progetti inclusi:
+## Included Projects:
 
 ### 1. Protein Folding (2D HP Model)
-- **Obiettivo:** Massimizzare i contatti H-H in una griglia 2D.
-- **Algoritmi:** DFS, BFS, MINCOST, A*.
-- **Euristiche:** Contatti mancanti.
+- **Goal:** Maximize H-H contacts on a 2D grid (energy minimization).
+- **Algorithms:** DFS (Depth-First Search), BFS, MINCOST, A* (A-Star).
+- **Heuristics:** Missing Contacts / Potential Contacts.
 
 
-## Requisiti
+## Requirements
 - Java JDK 11+
 - Maven
